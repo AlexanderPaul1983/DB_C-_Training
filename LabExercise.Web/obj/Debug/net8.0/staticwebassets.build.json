@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qVNxUALXSqPkztI790wo7JHyiplITmFRgWtSMLJBJhM=",
+  "Source": "LabExercise.Web",
+  "BasePath": "_content/LabExercise.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
