@@ -5,8 +5,8 @@ namespace LabExercise.Tests.Users;
 
 public class GetUserTests : BaseTestWithExerciseContext
 {
-    /*
-     
+    
+     /*
     [Fact]
     public async void GetUserWithValidId()
     {
